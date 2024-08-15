@@ -1,0 +1,32 @@
+{
+  "name": "snaterjproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c ",
+    "watch": "rollup -c -w",
+    "serve": "serve" 
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.4",
+    "glob": "^11.0.0",
+    "rollup": "^4.20.0",
+    "serve": "^14.2.3"
+  },
+  "dependencies": {
+    "rollup-plugin-clear": "^2.0.7",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-builtins": "^2.1.2",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-watch-globs": "^2.0.1",
+    "rollup-ssxc-loader": "^1.0.3",
+    "snaterj": "1.0.6",
+    "ssxc": "1.0.3"
+  }
+}
