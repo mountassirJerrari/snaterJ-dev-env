@@ -1,7 +1,7 @@
 
 # SnaterJ Framework
 
-Snaterj is a JavaScript framework I created, designed primarily for learning purposes (it may crush , ofc  lol ) .
+Snaterj is a JavaScript framework I created, designed primarily for learning purposes (it may crash , ofc  lol ) .
 
 SSX, a JSX-like syntax, was developed specifically for Snaterj.
 
