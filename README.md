@@ -1,5 +1,5 @@
 
-# Snater.js Framework
+# SnaterJ Framework
 
 Snaterj is a JavaScript framework I created, designed primarily for learning purposes (it may crush , ofc  lol ) .
 
